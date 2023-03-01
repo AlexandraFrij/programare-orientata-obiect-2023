@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Stefania\OneDrive\Desktop\oop_x\Laborator2\Laborator2\main.cpp(28,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Stefania\OneDrive\Desktop\oop_x\Laborator2\Laborator2\main.cpp(31,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Stefania\OneDrive\Desktop\oop_x\Laborator2\Laborator2\main.cpp(34,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Stefania\OneDrive\Desktop\oop_x\Laborator2\Laborator2\main.cpp(41,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Stefania\OneDrive\Desktop\oop_x\Laborator2\Laborator2\main.cpp(42,18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Stefania\OneDrive\Desktop\oop_x\Laborator2\Laborator2\main.cpp(43,18): warning C4305: 'argument': truncation from 'double' to 'float'
+  Laborator2.vcxproj -> C:\Users\Stefania\OneDrive\Desktop\oop_x\Laborator2\x64\Debug\Laborator2.exe
