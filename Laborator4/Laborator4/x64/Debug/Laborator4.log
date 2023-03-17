@@ -1,0 +1,6 @@
+﻿  Sort.cpp
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\Laborator4\Laborator4\Sort.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\Laborator4\Laborator4\Sort.cpp(152,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\Laborator4\Laborator4\Sort.cpp(153,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\Laborator4\Laborator4\Sort.cpp(195,17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Laborator4.vcxproj -> C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\Laborator4\x64\Debug\Laborator4.exe
