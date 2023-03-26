@@ -1,0 +1,7 @@
+﻿  Number.cpp
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator5\laborator5\Number.cpp(37,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator5\laborator5\Number.cpp(263,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator5\laborator5\Number.cpp(157): warning C4715: 'Number::operator[]': not all control paths return a value
+  laborator5.vcxproj -> C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator5\x64\Debug\laborator5.exe
