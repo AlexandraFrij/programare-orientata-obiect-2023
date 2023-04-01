@@ -1,0 +1,13 @@
+﻿  BMW.cpp
+  Circuit.cpp
+  Fiat.cpp
+  RangeRover.cpp
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator6\laborator6\RangeRover.cpp(5,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator6\laborator6\RangeRover.cpp(6,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator6\laborator6\RangeRover.cpp(8,30): warning C4305: '=': truncation from 'double' to 'float'
+  Seat.cpp
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator6\laborator6\Seat.cpp(6,21): warning C4305: '=': truncation from 'double' to 'float'
+  Volvo.cpp
+  main.cpp
+  Generating Code...
+  laborator6.vcxproj -> C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator6\x64\Debug\laborator6.exe
