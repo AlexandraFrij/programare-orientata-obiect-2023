@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator7\laborator7\main.cpp(10,11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator7\laborator7\main.cpp(13,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  laborator7.vcxproj -> C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator7\x64\Debug\laborator7.exe
