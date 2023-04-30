@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (laborator8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator9\laborator9\main.cpp(27,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  laborator9.vcxproj -> C:\Users\Stefania\OneDrive\Desktop\programare orientata obiect\laborator9\x64\Debug\laborator9.exe
